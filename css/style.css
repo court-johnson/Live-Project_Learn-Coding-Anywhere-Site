@@ -7,7 +7,7 @@ html {
 body {
   padding-top: 115px;
   font-size: 1.4em; 
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Abel', sans-serif;
   }
   
 .header h1 {
@@ -144,7 +144,7 @@ h2, h4{
   display: block;
   padding-top: 0px;
   padding-bottom: 0px; 
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Abel', sans-serif;
   }
 
 .clickForContactForm {
@@ -673,7 +673,7 @@ select:invalid{
 background-size: cover; */ }
   .jumbotron h1 {
     font-size: 2.1em;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Abel', sans-serif;
     font-style: none;
     color: #004271; }
   .jumbotron .btn {
@@ -681,7 +681,7 @@ background-size: cover; */ }
   
  .jumbotron2 {
    font-size: 2.1em;
-   font-family: 'Titillium Web', sans-serif;
+   font-family: 'Abel', sans-serif;
    font-style: none;
    color: #004271;
   }
@@ -1703,7 +1703,7 @@ box-shadow: 0 0 20px rgba(0,0,0, .75);
 -moz-border-radius: 8px;
 border-radius:8px;
 /**Style the caption**/
-font-family: 'Droid Sans', sans-serif; /*Droid Sans is available from Google fonts*/
+font-family: 'Abel', sans-serif;
 font-size:.9em;
 text-align: center;
 color: #495a62;
