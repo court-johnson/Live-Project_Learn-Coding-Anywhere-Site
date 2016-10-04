@@ -7,3 +7,4 @@
 Project with The Tech Academy to complete various updates in order to improve user experience on LearnCodeAnywhere.com(https://learncodinganywhere.com/).
 
 Tools used: HMTL, CSS, JavaScript
+Collaborator:  [Clifford Cannon]
