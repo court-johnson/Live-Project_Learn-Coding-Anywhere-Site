@@ -107,6 +107,7 @@ h2, h4{
 
 .navbar-header button {
   background: #004271; 
+
 }
 
 .navbar-header button span.icon-bar {
@@ -118,10 +119,71 @@ h2, h4{
     font-size: 1.1em;
 }
 
-
-.navbar-toggle{
-    background-color: #004271;
+#nav-toggle {
+	height: 30px;
 }
+
+
+#nav-toggle .top-bar {
+	width: 22px;
+	height: 2px;
+	display: block;
+	background: #fff;
+	position: absolute;
+	-webkit-transition: 10ms;
+	transition: 10ms;
+}
+
+#nav-toggle .middle-bar {
+	width: 22px;
+	height: 2px;
+	display: block;
+	background: #fff;
+
+	-webkit-transition: 10ms;
+	transition: 10ms;
+}
+
+#nav-toggle .bottom-bar {
+	width: 22px;
+	height: 2px;
+	display: block;
+	background: #fff;
+	position: absolute;
+	-webkit-transition: 10ms;
+	transition: 10ms;
+}
+
+/*hamburger transition to 'x' when open*/
+
+.navigation-open {
+  display: block;
+  background: #FFF;
+  position: absolute;
+  left: 0;
+}
+
+.navigation-open .top-bar {
+  top: 13px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.navigation-open .middle-bar{
+  width: 0;
+  top: 12px;
+  opacity: 0;
+  visibility: hidden;
+
+}
+
+.navigation-open .bottom-bar {
+  bottom: 13px;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+
 
 .masthead {
     background-color:rgba(0, 0, 0, 0.5);
@@ -1514,12 +1576,12 @@ div#tour-container { display: none; }
 .emp-row-left {
 	width: 50%;
 	height: 600px;
-	float: left; 
+	float: left;
 }
 
 .emp-row-right {
 	width: 50%;
-	height 600px;
+	height: 600px;
 	float: right;
 }
 

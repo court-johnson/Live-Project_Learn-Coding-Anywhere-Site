@@ -112,16 +112,9 @@ $(document).ready(function () {
 });
 
 
-/*toggling between hamburger and x-close image for menu dropdown*/
-$(function() {
-  $('.navbar-toggle').click(function() {
-    $('#navbar-hamburger').toggleClass('hidden');
-    $('#navbar-close').toggleClass('hidden');  
-  });
+/*toggling between hamburger and x-close image for menu dropdown when clicking to open and close*/
+ $(document).ready(function(){
+   $("#nav-toggle").click(function() {
+     $(".navbar").toggleClass('navigation-open');
+   });
 });
-
-
-
-
-
-

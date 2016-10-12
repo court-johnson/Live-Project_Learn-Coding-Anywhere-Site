@@ -1,20 +1,16 @@
 <nav class="navbar-fixed-top navbar">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <!--hamburger menu dropdown toggling between hamburger and x-close image with jquery-->
-						<div id="navbar-hamburger">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</div>
-						
-						<div id="navbar-close" class="hidden">
-							<span><img src="images/x-close.png"></img></span>
-						</div>
-						
-					</button>
+                    
+					<button type="button" id="nav-toggle" class="navbar-toggle collapsed" data-toggle="collapse" 
+					 data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar top-bar top-bar-collapsed"></span>
+						<span class="icon-bar middle-bar middle-bar-collapsed"></span>
+						<span class="icon-bar bottom-bar bottom-bar-collapsed" style="margin-top:2px;"></span>
+					</button> 
+
 				</div>
+			
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav nav-justified">
                         <li class="hidden-lg hidden-md navText"><a href="/">Home</a></li>
@@ -40,4 +36,7 @@
 						
 					</ul>
 				</div>
-			</nav>
+</nav>
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/JavaScript" src="main.js"></script> 
