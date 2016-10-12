@@ -24,8 +24,10 @@
 		<!--  Font Awesome  -->
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
 		
+		
 		<!--  Google Font  -->
 		<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
 		
 		<!-- Bootstrap core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">

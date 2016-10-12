@@ -25,6 +25,7 @@
 		
 		<!--  Google Font  -->
 		<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
 		<!-- Bootstrap core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<!-- Custom CSS -->

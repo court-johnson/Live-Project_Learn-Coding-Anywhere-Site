@@ -119,10 +119,10 @@ h2, h4{
     font-size: 1.1em;
 }
 
+/*nav dropdown closed - to transition to 'x' when opened*/
 #nav-toggle {
 	height: 30px;
 }
-
 
 #nav-toggle .top-bar {
 	width: 22px;
