@@ -41,12 +41,12 @@
 			<p class="lead" >If you are interested in having your employees trained by The Tech Academy, <a href="company-training.php" target="_blank">please contact us via our Company Training Page.</a></p>
 
 		</div>
-			<div class = "emp-container">
+			<div class = "emp-container employ-testimonials">
 				<div class = "emp-row">
-					<div class = "emp-row-left" style="margin-top: 40px;"> <!-- Creating some evenness with emp rows -->
+					<div class = "emp-row-left testimonials-image" style="margin-top: 40px;"> <!-- Creating some evenness with emp rows -->
 						<img src = "images/employers/employers2.jpg" id="emp-large-image">
 					</div>
-					<div class = "emp-row-right">
+					<div class = "emp-row-right testimonials-section">
 						<h1>What Employers Are Saying</h1>
 							<p>Testimonial quotes from employers of some students.</p>
 							<br/>							
@@ -92,7 +92,7 @@
 		<br/>
 		<br/>
 		<h1>How to Hire Our Graduates</h1>
-			<p>Hiring Tech Academy graduates is very simple, just contact us today and we can get you in contact with our top developers for your field!</p>
+			<p class="hire">Hiring Tech Academy graduates is very simple, just contact us today and we can get you in contact with our top developers for your field!</p>
 			<br/>
 			<p><a class="btn-lg btn-primary btn" data-toggle="modal" data-target="#employerPopUpContact" role="button">Contact Us for More Info</a></p>
 			<br/>

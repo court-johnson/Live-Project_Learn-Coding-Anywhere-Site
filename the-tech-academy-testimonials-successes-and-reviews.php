@@ -41,7 +41,7 @@
 	
 	<body class="text-center stories">
 		
-		<div class="container">
+		<div class="container student-stories">
 			
 			<div class="masthead">
 				<?php include("testing---header.php");?>
@@ -148,7 +148,8 @@
 					<p id="location_5">I looked at the offerings of several boot camps in the area, and found that the Tech Academy offered the strongest curriculum towards a path in software development. I then left my engineering position to pursue instruction at the Tech Academy full time, and have had absolutely no regrets. The instructors have been attentive and helpful, and I have been able to master the skills I was seeking to enter the tech industry. I would highly recommend the Tech Academy to anyone seeking quick entry into software development."</p>
 				</div>   
 			</div><!-- End Row 7 -->
-			
+		</div>
+		
 			<div class="row tiles slideanim"><!-- Start Row 8 -->
 				<div class="col-lg-12">
 					<p class="lead" >For more student successes, please visit our <a href="https://www.facebook.com/The-Tech-Academy-663002590387052/" target="_blank">Facebook page</a>.</p><br/>

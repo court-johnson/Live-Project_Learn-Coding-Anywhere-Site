@@ -43,13 +43,14 @@
 	</head>
 
 <body class="text-center">
+	<div class="inquiry-contact-form">
         <div class="masthead">
             <?php include("testing---header.php");?>
 		</div>
 		<div class = "emp-container">
 			<div class = "emp-row">
 				<div class = "emp-row-right">
-					<img src = "images/company training/Portland Business.jpg" id="emp-large-image">
+					<img src = "images/company training/Portland Business.jpg" id="emp-large-image" class="portland-business">
 				</div>
 				<div class = "emp-row-left">
 					<br/>
@@ -171,6 +172,7 @@
 			<script src="js/contact.js" type="text/javascript">
 			</script>
 			<script src="js/main.js" type="text/javascript"></script>
+		
 		</body>
 	</html>
 	<!--Status API Training Shop Blog About-->

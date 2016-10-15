@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row footSection">
                 <ul class="footer_nav">
                     <li><a href="/">Home</a></li>
                     <li><a href="about-the-tech-academy.php">About</a></li>
