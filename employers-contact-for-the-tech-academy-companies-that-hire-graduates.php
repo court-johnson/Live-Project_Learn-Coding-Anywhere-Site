@@ -47,20 +47,18 @@
 						<img src = "images/employers/employers2.jpg" id="emp-large-image">
 					</div>
 					<div class = "emp-row-right testimonials-section">
-						<h1>What Employers Are Saying</h1>
-							<p>Testimonial quotes from employers of some students.</p>
-							<br/>							
-							<p style="padding-left:10px;padding-right:10px;">“Our newest UI Designer is excelling in her role and is even being trained to handle more senior level development in the future. It is clear that The Tech Academy produces qualified, capable individuals who are ready to enter the workforce and hit the ground running.”
-							<a href="http://www.graphicproducts.com/" target="_blank"><img class="testimonial-logo" src="images/employers/Graphic_Products-logo.png" style="height: 50px;width: 70px;"></a></p>
+						<h1>What Employers Are Saying</h1>						
+							<p style="padding-left:10px;padding-right:10px;">“Our newest UI Designer is excelling in her role and is even being trained to handle more senior level development in the future. It is clear that The Tech Academy produces qualified, capable individuals who are ready to enter the workforce and hit the ground running.”</p>
+							<a href="http://www.graphicproducts.com/" target="_blank"><img class="testimonial-logo" src="images/employers/Graphic_Products-logo.png" style="height: 50px;width: 70px;"></a>
 							<br/>
-							<p style="padding-left:10px;padding-right:10px;">“From the very first interview to the current day, it is apparent that our new .Net developer was prepared for the real experience of professional development. They were more prepared day 1 with the fundamentals than most people with more academically focused training.”
-							<a href="http://www.ligmarine.com/" target="_blank"><img class="testimonial-logo" src="images/employers/LIG_Marine-logo.png" style="height: 50px;width: 60px;"></a></p>
+							<p style="padding-left:10px;padding-right:10px;">“From the very first interview to the current day, it is apparent that our new .Net developer was prepared for the real experience of professional development. They were more prepared day 1 with the fundamentals than most people with more academically focused training.”</p>
+							<a href="http://www.ligmarine.com/" target="_blank"><img class="testimonial-logo" src="images/employers/LIG_Marine-logo.png" style="height: 50px;width: 60px;"></a>
 							<br/>
-							<p style="padding-left:10px;padding-right:10px;">"We have been fortunate to get an excellent UI Designer. He excels in his role and has been an integral part of our upgrade to version 5.0 of our software. Exterro is a legal software company and we offer a challenging work environment with leading-edge technology. The Tech Academy produced a qualified and professional developer. He was positive, knowledgeable and quickly part of the team. We look forward to having him grow his career here with us."
-							<a href="http://www.exterro.com/" target="_blank"><img class="testimonial-logo" src="images/employers/Exterro-logo.png" style="height: 50px;width: 60px;"></a></p>
+							<p style="padding-left:10px;padding-right:10px;">"We have been fortunate to get an excellent UI Designer. He excels in his role and has been an integral part of our upgrade to version 5.0 of our software. Exterro is a legal software company and we offer a challenging work environment with leading-edge technology. The Tech Academy produced a qualified and professional developer. He was positive, knowledgeable and quickly part of the team. We look forward to having him grow his career here with us."</p>
+							<a href="http://www.exterro.com/" target="_blank"><img class="testimonial-logo" src="images/employers/Exterro-logo.png" style="height: 50px;width: 60px;"></a>
 							<br/>
-							<p style="padding-left:10px;padding-right:10px;">“Nic has been great since he started, he's willing to jump into whatever we throw at him and figure it out. We do a lot of software development with a 3rd party vendor, and he is able to act as an excellent point of communication between us and our developers, by effectively articulating our requests to the development team.”
-							<a href="http://cooksecuritygroup.com/" target="_blank"><img class="testimonial-logo" src="images/employers/Cook_Security_Group-logo.png" style="height: 50px;width: 80px;"></a></p>
+							<p style="padding-left:10px;padding-right:10px;">“Nic has been great since he started, he's willing to jump into whatever we throw at him and figure it out. We do a lot of software development with a 3rd party vendor, and he is able to act as an excellent point of communication between us and our developers, by effectively articulating our requests to the development team.”</p>
+							<a href="http://cooksecuritygroup.com/" target="_blank"><img class="testimonial-logo" src="images/employers/Cook_Security_Group-logo.png" style="height: 50px;width: 80px;"></a>
 							<br/>
 							<br/>
 													

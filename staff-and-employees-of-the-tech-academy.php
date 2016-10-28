@@ -68,69 +68,33 @@
 				</div>
 				
 				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/EMILY_1.jpg" alt="Emily Hayes" />
-					<p></p>
-					<p class="lead">Emily Hayes<br />Accounting Manager</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
 					<img class="enlarge-img" src="images/BRETT_2.jpg" alt="Brett Caudle" />
 					<p></p>
-					<p class="lead">Brett Caudle<br />Student Registration</p>
+					<p class="lead">Brett Caudle<br />CEO</p>
 				</div>
 				
 				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/KENDRA_1.jpg" alt="Kendra Iraheta" />
+					<img class="enlarge-img" src="images/RICK_2.jpg" alt="Rick Ramsay" />
 					<p></p>
-					<p class="lead">Kendra Iraheta<br />Student Care Director</p>
+					<p class="lead">Rick Ramsay<br />Deputy CEO</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img"  src="images/Hannah.png" alt="Hannah Patterson"/>
+					<p></p>
+					<p class="lead">Hannah Patterson<br />Deputy CEO</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/Jesse.png" alt="Jesse Johnson" />
+					<p></p>
+					<p class="lead">Jesse Johnson<br />President</p>
 				</div>
 				
 				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
 					<img class="enlarge-img" src="images/NANCY_1.jpg" alt="Nancy Ku" />
 					<p></p>
 					<p class="lead">Nancy Ku<br />Executive Assistant</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottomExtraLine">
-					<img class="enlarge-img" src="images/DANNY_1.jpg" alt="Danny Condon" />
-					<p></p>
-					<p class="lead">Danny Condon<br />Job Placement <br /> Director</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottomExtraLine">
-					<img class="enlarge-img" src="images/MICHAEL_1.jpg" alt="Michael Allen" />
-					<p></p>
-					<p class="lead">Michael Allen<br />Remote Job Placement <br /> Director</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/Daniel.png" alt="Daniel Christie" />
-					<p></p>
-					<p class="lead">Daniel Christie<br />Instructor</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/ADAM_1.jpg" alt="Adam Smith" />
-					<p></p>
-					<p class="lead">Adam Smith<br />Senior Instructor</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/RICK_2.jpg" alt="Rick Ramsay" />
-					<p></p>
-					<p class="lead">Rick Ramsay<br />Instructor</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/Derek.png" alt="Derek Meyer" />
-					<p></p>
-					<p class="lead">Derek Meyer<br />Registration</p>
-				</div>
-				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/Jesse.png" alt="Jesse Johnson" />
-					<p></p>
-					<p class="lead">Jesse Johnson<br />Instructor</p>
 				</div>
 				
 				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
@@ -140,30 +104,77 @@
 				</div>
 				
 				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/Derek.png" alt="Derek Meyer" />
+					<p></p>
+					<p class="lead">Derek Meyer<br />Admissions Director</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/EMILY_1.jpg" alt="Emily Hayes" />
+					<p></p>
+					<p class="lead">Emily Hayes<br />Accounting Manager</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/ADAM_1.jpg" alt="Adam Smith" />
+					<p></p>
+					<p class="lead">Adam Smith<br />Services Manager</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/KENDRA_1.jpg" alt="Kendra Iraheta" />
+					<p></p>
+					<p class="lead">Kendra Iraheta<br />Student Care Director</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/Dylan.png" alt="Dylan Dykes" />
+					<p></p>
+					<p class="lead">Dylan Dykes<br />Academy Director</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img" src="images/Daniel.png" alt="Daniel Christie" />
+					<p></p>
+					<p class="lead">Daniel Christie<br />Instructor</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img"  src="images/Aja.png" alt="Aja Brofferio"/>
+					<p></p>
+					<p class="lead">Aja Brofferio<br />Instructor</p>
+				</div>
+				
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
 					<img class="enlarge-img" src="images/Cliff.png" alt="Clifford Cannon" />
 					<p></p>
 					<p class="lead">Clifford Cannon<br />Live Project In-Charge</p>
 				</div>
 				
 				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<img class="enlarge-img" src="images/Dylan.png" alt="Dylan Dykes" />
+					<img class="enlarge-img"  src="images/TONY_3.jpg" alt="Tony Thach"/>
 					<p></p>
-					<p class="lead">Dylan Dykes<br />Instructor,Python In-Charge</p>
+					<p class="lead">Tony Thach<br />Outreach Director</p>
 				</div>
 				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<!--<img class="enlarge-img"  src="images/frontPic.JFIF" alt="Jordan Real"/>-->
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottomExtraLine">
+					<img class="enlarge-img" src="images/DANNY_1.jpg" alt="Danny Condon" />
 					<p></p>
-					<p class="lead">Jordan Real<br />Instructor</p>
+					<p class="lead">Danny Condon<br />Lead Job Placement<br />Director</p>
+				</div>
+			
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
+					<img class="enlarge-img"  src="images/Aaron.png" alt="Aaron Frichtl"/>
+					<p></p>
+					<p class="lead">Aaron Frichtl<br />Local Job Placement<br />Director</p>
 				</div>
 				
-				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottom">
-					<!--<img class="enlarge-img"  src="images/frontPic.JFIF" alt="Harlan Gross"/>-->
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 slideanim margBottomExtraLine">
+					<img class="enlarge-img" src="images/MICHAEL_1.jpg" alt="Michael Allen" />
 					<p></p>
-					<p class="lead">Harlan Gross <br />QC Manager</p>
+					<p class="lead">Michael Allen<br />Remote Job Placement<br />Director</p>
 				</div>
 			</div>
-			
 			
 			<p class="lead">If you have any questions regarding our staff or program, please <a href="contact-the-tech-academy-by-email-address-and-phone-number.php">contact us</a></p>
 			
