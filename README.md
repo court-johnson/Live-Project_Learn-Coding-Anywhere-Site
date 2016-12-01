@@ -1,10 +1,10 @@
 # LearnCodingAnywhere.com
 
-*A live project with The Tech Academy*
+*A live project with Prosper IT Consulting and The Tech Academy*
 
 ---
 
-Project with The Tech Academy to complete various updates in order to improve user experience on [LearnCodeAnywhere.com](https://learncodinganywhere.com/).
+Using HTML, CSS animations and JavaScript created an enhanced user experience on [LearnCodeAnywhere.com](https://learncodinganywhere.com/) and responsive layout while on live-project with Prosper I.T. Consulting.
 
 Tools used: HMTL, CSS, JavaScript<br>
 Collaborator:  [Clifford Cannon](https://github.com/cliffordcan)
